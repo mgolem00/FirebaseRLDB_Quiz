@@ -1,0 +1,235 @@
+{"db":
+{
+    "personalScores": 
+    {
+        "rvxJ0bpNI5a9Dr7pSBU8B6GDszk1":
+        {
+            "0": 10,
+            "1": 20,
+            "2": 30,
+            "3": 40,
+            "4": 50,
+            "5": 60,
+            "6": 70,
+            "7": 80,
+            "8": 90,
+            "9": 100
+        }
+    },
+    "globalRecords":
+    {
+        "1":
+        {
+            "user": "test@gmail.com",
+            "score": 100
+        },
+        "2":
+        {
+            "user": "test@gmail.com",
+            "score": 90
+        },
+        "3":
+        {
+            "user": "test@gmail.com",
+            "score": 80
+        },
+        "4":
+        {
+            "user": "test@gmail.com",
+            "score": 70
+        },
+        "5":
+        {
+            "user": "test@gmail.com",
+            "score": 60
+        },
+        "6":
+        {
+            "user": "test@gmail.com",
+            "score": 50
+        },
+        "7":
+        {
+            "user": "test@gmail.com",
+            "score": 40
+        },
+        "8":
+        {
+            "user": "test@gmail.com",
+            "score": 30
+        },
+        "9":
+        {
+            "user": "test@gmail.com",
+            "score": 20
+        },
+        "10":
+        {
+            "user": "test@gmail.com",
+            "score": 10
+        }
+    }, 
+    "questions": {
+        "0":
+        {
+            "question":"In a complete graph G, which has 12 vertices, how many edges are there?",
+            "correct_answer":"66",
+            "incorrect_answer1":"67",
+            "incorrect_answer2": "34",
+            "incorrect_answer3":"11"
+        },
+        "1":
+        {
+            "question":"What is the nickname of Northampton town's rugby union club?",
+            "correct_answer":"Saints",
+            "incorrect_answer1":"Harlequins",
+            "incorrect_answer2": "Saracens",
+            "incorrect_answer3":"Wasps"
+        },
+        "2":
+        {
+            "question":"On a London Underground map, what colour is the Circle Line?",
+            "correct_answer":"Yellow",
+            "incorrect_answer1":"Red",
+            "incorrect_answer2": "Blue",
+            "incorrect_answer3":"Green"
+        },
+        "3":
+        {
+            "question":"Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+            "correct_answer":"Aragon",
+            "incorrect_answer1":"Galicia",
+            "incorrect_answer2": "Leon",
+            "incorrect_answer3":"Navarre"
+        },
+        "4":
+        {
+            "question":"What is the most expensive weapon in Counter-Strike: Global Offensive?",
+            "correct_answer":"Scar-20\/G3SG1",
+            "incorrect_answer1":"M4A1",
+            "incorrect_answer2": "AWP",
+            "incorrect_answer3":"R8 Revolver"
+        },
+        "5":
+        {
+            "question":"On which continent is the country of Angola located?",
+            "correct_answer":"Africa",
+            "incorrect_answer1":"South America",
+            "incorrect_answer2": "Europe",
+            "incorrect_answer3":"Asia"
+        },
+        "6":
+        {
+            "question":"Which video game was recalled for containing a hidden, playable South Park episode?",
+            "correct_answer":"Tiger Woods 99 PGA Tour",
+            "incorrect_answer1":"Tony Hawk's Pro Skater 3",
+            "incorrect_answer2": "Sonic Adventure",
+            "incorrect_answer3":"Madden 99"
+        },
+        "7":
+        {
+            "question":"Which of these aliases has NOT been used by electronic musician Aphex Twin?",
+            "correct_answer":"Burial",
+            "incorrect_answer1":"Caustic Widow",
+            "incorrect_answer2": "Bradley Strider",
+            "incorrect_answer3":"GAK"
+        },
+        "8":
+        {
+            "question":"How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+            "correct_answer":"8 hours",
+            "incorrect_answer1":"4 hours",
+            "incorrect_answer2": "12 hours",
+            "incorrect_answer3":"5 hours"
+        },
+        "9":
+        {
+            "question":"What was the first interactive movie video game?",
+            "correct_answer":"Astron Belt",
+            "incorrect_answer1":"Dragon's Lair",
+            "incorrect_answer2": "Cube Quest",
+            "incorrect_answer3":"M.A.C.H. 3"
+        },
+        "10":
+        {
+            "question":"What is the name of Sid's dog in Toy Story?",
+            "correct_answer":"Scud",
+            "incorrect_answer1":"Buster",
+            "incorrect_answer2": "Whiskers",
+            "incorrect_answer3":"Mr. Jones"
+        },
+        "11":
+        {
+            "question":"Which of these games includes the phrase \"Do not pass Go, do not collect 200 dollars?\"",
+            "correct_answer":"Monopoly",
+            "incorrect_answer1":"Pay Day",
+            "incorrect_answer2": "Cluedo",
+            "incorrect_answer3":"Coppit"
+        },
+        "12":
+        {
+            "question":"What two characters from the game Undertale are never in a relationship or not related?",
+            "correct_answer":"Frisk and Chara",
+            "incorrect_answer1":"Sans and Papyrus",
+            "incorrect_answer2": "Toriel and Asgore",
+            "incorrect_answer3":"Alphys and Undyne"
+        },
+        "13":
+        {
+            "question":"In what year was the video game company Electronic Arts founded?",
+            "correct_answer":"1982",
+            "incorrect_answer1":"1999",
+            "incorrect_answer2": "1981",
+            "incorrect_answer3":"2005"
+        },
+        "14":
+        {
+            "question":"In what Half-Life expansion can you find Gordon's picture in an \"Employee of the Month\" picture frame?",
+            "correct_answer":"Half-Life: Opposing Force",
+            "incorrect_answer1":"Half-Life: Blue Shift",
+            "incorrect_answer2": "Half-Life: Decay",
+            "incorrect_answer3":"They Hunger"
+        },
+        "15":
+        {
+            "question":"What was the original name of Crash Bandicoot?",
+            "correct_answer":"Willie Wombat",
+            "incorrect_answer1":"Coco Bandicoot",
+            "incorrect_answer2": "Marvelous Mole",
+            "incorrect_answer3":"Wally Wombat"
+        },
+        "16":
+        {
+            "question":"What is the right way to spell the capital of Hungary?",
+            "correct_answer":"Budapest",
+            "incorrect_answer1":"Boodapest",
+            "incorrect_answer2": "Bhudapest",
+            "incorrect_answer3":"Budapast"
+        },
+        "17":
+        {
+            "question":"In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
+            "correct_answer":"BMW M3 GTR",
+            "incorrect_answer1":"Porsche 911 Turbo",
+            "incorrect_answer2": "Nissan 240SX",
+            "incorrect_answer3":"Ford Mustang"
+        },
+        "18":
+        {
+            "question":"Guy's Grocery Games is hosted by which presenter?",
+            "correct_answer":"Guy Fieri",
+            "incorrect_answer1":"Guy Martin",
+            "incorrect_answer2": "Guy Ritchie",
+            "incorrect_answer3":"Ainsley Harriott"
+        },
+        "19":
+        {
+            "question":"Five dollars is worth how many nickles?",
+            "correct_answer":"100",
+            "incorrect_answer1":"50",
+            "incorrect_answer2": "25",
+            "incorrect_answer3":"69"
+        }
+    }
+}
+}
